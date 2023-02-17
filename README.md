@@ -4,11 +4,7 @@
 
 <p align="center">A Python-based Discord bot designed to provide a variety of useful features for your server. It includes several commands for moderating your chat, managing your users, and more.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/issues/HamzaGSopp/GestionBot" alt="Issues">
-  <img src="https://img.shields.io/github/forks/HamzaGSopp/GestionBot" alt="Forks">
-  <img src="https://img.shields.io/github/stars/HamzaGSopp/GestionBot" alt="Stars">
-</p>
+
 
 ## 🚀 Features
 
