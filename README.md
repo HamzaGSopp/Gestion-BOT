@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.imgur.com/r7Q28Kn.png" alt="Gestion Bot" width="400"/>
-</div>
+
 
 <h1 align="center">🤖 Gestion Bot V1.1.2 🤖</h1>
 
