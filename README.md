@@ -34,30 +34,4 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Cat" width="200">
 </p>
 
-<style>
-h1 {
-  animation: rainbow 2s infinite;
-}
 
-@keyframes rainbow {
-  0% { color: #4b7bec; }
-  25% { color: #fc5c65; }
-  50% { color: #fed330; }
-  75% { color: #26de81; }
-  100% { color: #4b7bec; }
-}
-
-p {
-  color: #576574;
-}
-
-a {
-  color: #4b7bec;
-  text-decoration: none;
-  transition: color 0.3s;
-}
-
-a:hover {
-  color: #fc5c65;
-}
-</style>
